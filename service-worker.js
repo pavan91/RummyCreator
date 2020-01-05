@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RummyCreator/precache-manifest.142eaf0d5c666c3f76d990b812600203.js"
+  "/RummyCreator/precache-manifest.59c693c72c97b088e1b2458fc8937689.js"
 );
 
 self.addEventListener('message', (event) => {
