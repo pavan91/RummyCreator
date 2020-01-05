@@ -1,0 +1,30 @@
+.cardType {
+  display: flex;
+  grid-auto-flow: column;
+}
+
+.containerStyle {
+  border-style: solid;
+  border-color: "black";
+  padding: 15px;
+  border-width: 0.5px;
+}
+
+.backgroundStyle {
+  font-size: 40px;
+  height: 220px;
+  width: 120px;
+  display: grid;
+  border-radius: 20px;
+  font-family: "Abril Fatface";
+  color: white;
+}
+
+.numberStyle {
+  margin: auto;
+  font-size: 70px;
+}
+.elementStyle {
+  margin: auto;
+  font-size: 50px;
+}
