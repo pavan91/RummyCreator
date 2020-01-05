@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/RummyCreator/static/css/main.80378132.chunk.css",
+    "main.css": "/RummyCreator/static/css/main.cbdd3916.chunk.css",
     "main.js": "/RummyCreator/static/js/main.ed984282.chunk.js",
     "main.js.map": "/RummyCreator/static/js/main.ed984282.chunk.js.map",
     "runtime-main.js": "/RummyCreator/static/js/runtime-main.9916a00a.js",
@@ -8,15 +8,15 @@
     "static/js/2.c5ee5908.chunk.js": "/RummyCreator/static/js/2.c5ee5908.chunk.js",
     "static/js/2.c5ee5908.chunk.js.map": "/RummyCreator/static/js/2.c5ee5908.chunk.js.map",
     "index.html": "/RummyCreator/index.html",
-    "precache-manifest.3ddceed8bb8c2417c5724f53af4d1dcb.js": "/RummyCreator/precache-manifest.3ddceed8bb8c2417c5724f53af4d1dcb.js",
+    "precache-manifest.142eaf0d5c666c3f76d990b812600203.js": "/RummyCreator/precache-manifest.142eaf0d5c666c3f76d990b812600203.js",
     "service-worker.js": "/RummyCreator/service-worker.js",
-    "static/css/main.80378132.chunk.css.map": "/RummyCreator/static/css/main.80378132.chunk.css.map",
+    "static/css/main.cbdd3916.chunk.css.map": "/RummyCreator/static/css/main.cbdd3916.chunk.css.map",
     "static/js/2.c5ee5908.chunk.js.LICENSE": "/RummyCreator/static/js/2.c5ee5908.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.9916a00a.js",
     "static/js/2.c5ee5908.chunk.js",
-    "static/css/main.80378132.chunk.css",
+    "static/css/main.cbdd3916.chunk.css",
     "static/js/main.ed984282.chunk.js"
   ]
 }

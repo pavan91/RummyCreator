@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60504a7cc720e3c61eb7c1d5ea55c637",
+    "revision": "52b767c6c56295231462fa79988488af",
     "url": "/RummyCreator/index.html"
   },
   {
-    "revision": "f464fa68198b0409d0d3",
-    "url": "/RummyCreator/static/css/main.80378132.chunk.css"
+    "revision": "38024ce43c72b775b3a3",
+    "url": "/RummyCreator/static/css/main.cbdd3916.chunk.css"
   },
   {
     "revision": "3d02ce639f0ac7d878c8",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RummyCreator/static/js/2.c5ee5908.chunk.js.LICENSE"
   },
   {
-    "revision": "f464fa68198b0409d0d3",
+    "revision": "38024ce43c72b775b3a3",
     "url": "/RummyCreator/static/js/main.ed984282.chunk.js"
   },
   {
